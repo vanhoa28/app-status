@@ -1,6 +1,6 @@
 {
   "app_enabled": false,
-  "is_finished": false,
+  "is_finished": true,
   "custom_message_1": "Từ 10:00 ngày 25/03/2026, hệ thống Panasonic e-Warranty sẽ tạm ngừng hoạt động để nâng cấp.\nQuý Đại lý vui lòng không truy cập hoặc thao tác trên hệ thống đến 15:00 ngày 27/03/2026, bất kỳ thao tác trong thời gian này sẽ không được ghi nhận nếu phát sinh.",
   "custom_message_2": "Ứng dụng Panasonic e-Warranty đã chính thức ngừng hoạt động và chuyển sang ứng dụng Panasonic e-Partners mới.\nĐể tiếp tục sử dụng hệ thống, Quý Đại lý vui lòng tải ứng dụng e-Partners. Thông tin tài khoản đăng nhập được giữ nguyên, tương tự như trên hệ thống e-Warranty"
 }
